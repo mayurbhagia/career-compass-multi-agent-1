@@ -1,0 +1,29 @@
+# workflow_definition.yaml
+workflow_name: bicycle_search_demo
+description: Demo workflow to search and add bicycle to cart on Amazon.in
+version: 1.0
+
+workflow:
+  starting_page: https://www.amazon.in
+
+  steps:
+    - name: search_bicycle
+      action: act
+      prompt: "Search for 'bicycle' in the search box"
+
+    - name: select_first_result
+      action: act
+      prompt: "Click on the first bicycle in the search results"
+
+    - name: add_to_cart
+      action: act
+      prompt: "Scroll down until you see 'Add to Cart' button and click it"
+
+runtime:
+  model_id: nova-act-v1.0
+  region: us-east-1
+  timeout: 300
+
+observability:
+  enabled: true
+  log_screenshots: true
