@@ -1,0 +1,49 @@
+CAREER GUIDANCE DOCUMENT: JOB DESCRIPTIONS AND CAREER PATHS
+SOFTWARE ENGINEER
+Description: Design, develop, and maintain software applications and systems.
+Required Skills: Programming (Python, Java, C++), Data Structures, Algorithms, Version Control (Git), Problem-solving
+Career Path: Junior Developer → Senior Developer → Tech Lead → Engineering Manager
+Average Salary Range: $70,000 - $150,000
+Growth Opportunities: Cloud computing, AI/ML specialization, DevOps
+CLOUD ENGINEER
+Description: Design, implement, and manage cloud infrastructure and services.
+Required Skills: AWS/Azure/GCP, Networking, Security, Infrastructure as Code, Containers (Docker/Kubernetes)
+Career Path: Cloud Support → Cloud Engineer → Cloud Architect → Principal Cloud Architect
+Average Salary Range: $80,000 - $160,000
+Growth Opportunities: Multi-cloud expertise, FinOps, Cloud Security
+DATA SCIENTIST
+Description: Analyze complex data to help organizations make better decisions.
+Required Skills: Python/R, Statistics, Machine Learning, SQL, Data Visualization, Business Acumen
+Career Path: Junior Data Analyst → Data Scientist → Senior Data Scientist → Chief Data Officer
+Average Salary Range: $85,000 - $170,000
+Growth Opportunities: Deep Learning, MLOps, AI Research
+DEVOPS ENGINEER
+Description: Bridge development and operations to improve deployment frequency and reliability.
+Required Skills: CI/CD, Linux, Scripting, Cloud Platforms, Monitoring Tools, Automation
+Career Path: System Admin → DevOps Engineer → Senior DevOps → DevOps Architect
+Average Salary Range: $75,000 - $155,000
+Growth Opportunities: Site Reliability Engineering, Platform Engineering
+CYBERSECURITY ANALYST
+Description: Protect organizations from cyber threats and security breaches.
+Required Skills: Network Security, Ethical Hacking, Security Tools, Compliance, Incident Response
+Career Path: Security Analyst → Security Engineer → Security Architect → CISO
+Average Salary Range: $80,000 - $165,000
+Growth Opportunities: Cloud Security, Zero Trust Architecture, Threat Intelligence
+FULL STACK DEVELOPER
+Description: Develop both frontend and backend components of web applications.
+Required Skills: HTML/CSS/JavaScript, React/Angular, Node.js, Databases, REST APIs
+Career Path: Junior Full Stack → Senior Full Stack → Technical Lead → CTO
+Average Salary Range: $75,000 - $145,000
+Growth Opportunities: Mobile Development, Microservices, Serverless Architecture
+AI/ML ENGINEER
+Description: Build and deploy machine learning models and AI systems.
+Required Skills: Python, TensorFlow/PyTorch, Deep Learning, MLOps, Mathematics
+Career Path: ML Engineer → Senior ML Engineer → ML Architect → AI Research Scientist
+Average Salary Range: $90,000 - $180,000
+Growth Opportunities: Generative AI, Computer Vision, NLP
+PRODUCT MANAGER (TECHNICAL)
+Description: Define product strategy and work with engineering teams to build products.
+Required Skills: Technical Background, Communication, Market Analysis, Agile, Stakeholder Management
+Career Path: Associate PM → Product Manager → Senior PM → VP of Product
+Average Salary Range: $85,000 - $175,000
+Growth Opportunities: AI Product Management, Platform Products

@@ -1,0 +1,77 @@
+CAREER GUIDANCE DOCUMENT: INTERVIEW PREPARATION GUIDE
+
+TECHNICAL INTERVIEW PREPARATION
+DATA STRUCTURES AND ALGORITHMS
+• Master: Arrays, Linked Lists, Trees, Graphs, Hash Tables
+• Practice: LeetCode (150+ problems), HackerRank, CodeSignal
+• Focus Areas: Time/Space Complexity, Dynamic Programming, Recursion
+• Tip: Explain your thought process clearly while coding
+SYSTEM DESIGN
+• Learn: Scalability, Load Balancing, Caching, Database Design
+• Practice: Design Twitter, Design URL Shortener, Design Netflix
+• Key Concepts: CAP Theorem, Microservices, API Design
+• Resources: System Design Primer, Grokking System Design
+PROGRAMMING LANGUAGES
+• Be proficient in at least one: Python, Java, C++, JavaScript
+• Know: OOP concepts, Design Patterns, Best Practices
+• Practice: Code reviews, Open source contributions
+
+BEHAVIORAL INTERVIEW PREPARATION
+STAR METHOD (Situation, Task, Action, Result)
+• Prepare 5-7 stories covering different competencies
+• Include: Leadership, Conflict Resolution, Failure, Success
+COMMON QUESTIONS
+• Tell me about yourself (2-minute pitch)
+• Why this company? (Research company values)
+• Biggest weakness? (Show self-awareness and growth)
+• Where do you see yourself in 5 years?
+LEADERSHIP PRINCIPLES (Amazon-style)
+• Customer Obsession: Put customer first
+• Ownership: Think long-term, act on behalf of company
+• Invent and Simplify: Seek innovation
+• Learn and Be Curious: Never stop learning
+• Hire and Develop the Best: Raise performance bar
+
+INTERVIEW DAY TIPS
+
+BEFORE THE INTERVIEW:
+• Research the company thoroughly
+• Review your resume and projects
+• Prepare questions to ask interviewers
+• Test your setup (for virtual interviews)
+• Get good sleep, eat well
+
+DURING THE INTERVIEW:
+• Arrive 10 minutes early (or login early for virtual)
+• Dress professionally
+• Make eye contact and smile
+• Listen carefully to questions
+• Ask clarifying questions
+• Think aloud while solving problems
+• Be honest if you don't know something
+
+AFTER THE INTERVIEW:
+• Send thank-you email within 24 hours
+• Reflect on what went well and areas to improve
+• Follow up appropriately on timeline
+
+TECHNICAL SCREENING TIPS:
+• Clarify requirements before coding
+• Start with brute force, then optimize
+• Test your code with examples
+• Discuss trade-offs
+• Handle edge cases
+
+SALARY NEGOTIATION:
+• Research market rates (Glassdoor, Levels.fyi)
+• Know your worth and minimum acceptable offer
+• Consider total compensation (base, bonus, equity, benefits)
+• Be professional and grateful
+• Get offers in writing
+
+RED FLAGS TO WATCH:
+• High turnover rate
+• Unclear job responsibilities
+• Poor communication during process
+• Unrealistic expectations
+• Toxic culture indicators

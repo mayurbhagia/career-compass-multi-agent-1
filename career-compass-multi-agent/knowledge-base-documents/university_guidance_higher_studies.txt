@@ -1,0 +1,119 @@
+CAREER GUIDANCE DOCUMENT: HIGHER STUDIES AND UNIVERSITY RECOMMENDATIONS
+
+MASTER'S PROGRAMS IN COMPUTER SCIENCE
+
+TOP UNIVERSITIES - UNITED STATES
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY (MIT)
+Programs: MS in Computer Science, MEng in AI
+Specializations: AI, Robotics, Systems, Theory
+Average GRE: 325+, GPA: 3.8+
+Application Deadline: December 15
+Tuition: $55,000/year
+Notable: Strong research focus, excellent placement
+STANFORD UNIVERSITY
+Programs: MS in Computer Science, MS in AI
+Specializations: AI, HCI, Systems, Theory, Security
+Average GRE: 328+, GPA: 3.9+
+Application Deadline: December 1
+Tuition: $58,000/year
+Notable: Silicon Valley location, startup ecosystem
+CARNEGIE MELLON UNIVERSITY (CMU)
+Programs: MS in Computer Science, MS in AI, MS in Software Engineering
+Specializations: AI, Robotics, Software Engineering, Security
+Average GRE: 326+, GPA: 3.7+
+Application Deadline: December 10
+Tuition: $52,000/year
+Notable: Best for AI and Robotics
+UNIVERSITY OF CALIFORNIA, BERKELEY
+Programs: MS in Computer Science, MEng
+Specializations: AI, Systems, Security, Theory
+Average GRE: 325+, GPA: 3.8+
+Application Deadline: December 15
+Tuition: $45,000/year (out-of-state)
+Notable: Strong research, Bay Area location
+GEORGIA INSTITUTE OF TECHNOLOGY
+Programs: MS in Computer Science (Online and On-campus)
+Specializations: ML, Computing Systems, Interactive Intelligence
+Average GRE: 320+, GPA: 3.5+
+Application Deadline: January 15
+Tuition: $30,000/year (on-campus), $7,000 total (online)
+Notable: Affordable online option, excellent ROI
+
+TOP UNIVERSITIES - EUROPE
+ETH ZURICH (Switzerland)
+Programs: MS in Computer Science
+Tuition: $1,500/year
+Language: English
+Notable: Low cost, high quality
+TECHNICAL UNIVERSITY OF MUNICH (Germany)
+Programs: MS in Computer Science, MS in Data Science
+Tuition: Free (minimal fees)
+Language: English programs available
+Notable: No tuition, strong industry connections
+UNIVERSITY OF CAMBRIDGE (UK)
+Programs: MPhil in Advanced Computer Science
+Tuition: £35,000/year
+Duration: 1 year
+Notable: Intensive program, prestigious
+
+TOP UNIVERSITIES - CANADA
+UNIVERSITY OF TORONTO
+Programs: MEng in Computer Science, MS in Applied Computing
+Specializations: AI, ML, Data Science
+Tuition: CAD $45,000/year
+Notable: Strong AI research (Geoffrey Hinton)
+UNIVERSITY OF BRITISH COLUMBIA
+Programs: MS in Computer Science
+Tuition: CAD $35,000/year
+Notable: Beautiful campus, tech hub
+
+APPLICATION REQUIREMENTS
+
+STANDARDIZED TESTS:
+• GRE: Most US universities (some waiving post-COVID)
+• TOEFL: 100+ (iBT) or IELTS: 7.0+ for non-native speakers
+
+DOCUMENTS NEEDED:
+• Statement of Purpose (SOP)
+• Letters of Recommendation (3)
+• Resume/CV
+• Transcripts
+• Research papers (if applicable)
+
+TIMELINE:
+• June-August: Shortlist universities, prepare for GRE/TOEFL
+• September-October: Take GRE/TOEFL, draft SOP
+• November: Request recommendation letters
+• December-January: Submit applications
+• March-April: Receive decisions
+• August-September: Start program
+
+SPECIALIZATIONS TO CONSIDER
+ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+Best for: Research, AI Engineer roles
+Top Schools: CMU, Stanford, MIT, Toronto
+CYBERSECURITY
+Best for: Security Engineer, Security Architect roles
+Top Schools: CMU, Berkeley, Georgia Tech
+DATA SCIENCE
+Best for: Data Scientist, ML Engineer roles
+Top Schools: Stanford, CMU, Berkeley, Columbia
+SOFTWARE ENGINEERING
+Best for: Software Engineer, Tech Lead roles
+Top Schools: CMU, MIT, Carnegie Mellon
+CLOUD COMPUTING & DISTRIBUTED SYSTEMS
+Best for: Cloud Architect, Systems Engineer roles
+Top Schools: MIT, Berkeley, Georgia Tech
+
+FUNDING OPTIONS:
+• Teaching Assistantships (TA)
+• Research Assistantships (RA)
+• Fellowships and Scholarships
+• Education Loans
+• Company Sponsorships
+
+ALTERNATIVE PATHS:
+• Professional Certifications (AWS, Google Cloud, Azure)
+• Online Master's Programs (Georgia Tech OMSCS, UT Austin)
+• Bootcamps for career switching
+• PhD for research careers

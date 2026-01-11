@@ -1,0 +1,28 @@
+# Create a simple S3 bucket and upload sample data
+BUCKET_NAME="agentcore-demo-$(date +%s)"
+aws s3 mb s3://${BUCKET_NAME} --region us-west-2
+
+# Create sample file
+echo "Hello from AgentCore! This is a simple demo showing how agents can read from S3." > demo.txt
+
+# Upload to S3
+aws s3 cp demo.txt s3://${BUCKET_NAME}/demo.txt
+
+echo "✅ Created bucket: ${BUCKET_NAME}"
+
+
+
+
+
+# Create project directory
+mkdir agentcore-simple-demo
+cd agentcore-simple-demo
+
+# Initialize uv project
+uv init.
+
+# Add dependencies
+uv add strands-agents bedrock-agentcore boto3
+uv add --dev bedrock-agentcore-starter-toolkit
+
+# Copy the simple_agent.py file to project root
